@@ -1,0 +1,53 @@
+body,
+html {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    height: 8%;
+    background-color: #0C0C0C;
+    text-align: right;
+}
+
+footer {
+    height: 8%;
+    background-color: #0C0C0C;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+nav {
+    height: 100%;
+}
+
+nav a {
+    padding-left: 30px;
+}
+
+.btn_area_livreiro {
+    background-color: #CF8900;
+    color: white;
+    border: none;
+    height: 100%;
+    padding: 15px;
+    margin-left: 30px;
+}
+
+.secao_inicial {
+    height: 84%;
+    background-image: url(images/wp12094212-2023-games-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.secao_inicial h1 {
+    display: flex;
+    justify-content: center;
+    position:relative
+}
